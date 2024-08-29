@@ -1,0 +1,13 @@
+MongoDB Compass
+MongoDB Atlass (Cloud Platform)
+
+
+CRUD - Create, Read, Update, Delete
+
+https://www.codewithharry.com/blogpost/mongodb-cheatsheet/
+
+https://www.w3resource.com/mongodb-exercises/
+
+Atlass:
+username: mohammedTalib_786
+pass: nPMS39B332CDpSIH

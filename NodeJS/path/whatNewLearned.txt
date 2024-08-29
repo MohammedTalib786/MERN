@@ -1,0 +1,7 @@
+learned 
+more basics of path modules
+
+common js modules 
+learned to import exports more than 1 functions with common js modules 
+
+(with require )

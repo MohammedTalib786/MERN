@@ -1,0 +1,3 @@
+learned about streams and stream pipes 
+Like its just like to read write etc have not seen any practical use. But it is used to streams like youtube videos and etc
+it is used to eliminate old method of downloading something and watch (as in recent times we generally use net and watch everything streams online )

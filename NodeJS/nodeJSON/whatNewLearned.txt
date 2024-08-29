@@ -1,0 +1,4 @@
+learned about JSON
+to convert it from obj and convert obj to JSON
+
+to read and write 

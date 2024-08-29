@@ -1,0 +1,11 @@
+{
+  "name": "talib",
+  "version": "1.0.0",
+  "description": "Its for Practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaikh Mohammed Talib",
+  "license": "ISC"
+}

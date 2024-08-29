@@ -1,0 +1,5 @@
+Learned more about npm and nodemon
+what is npm or nodemon locally npm or nodemon globally (How to install and Use it)
+learned about packages frameworks
+
+

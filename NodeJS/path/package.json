@@ -1,0 +1,11 @@
+{
+  "name": "2-sept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pathMod.js",
+  "scripts": {
+    "start": "nodemon pathMod"
+  },
+  "author": "",
+  "license": "ISC"
+}

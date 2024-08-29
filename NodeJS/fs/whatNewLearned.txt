@@ -1,0 +1,2 @@
+new thing learned
+utf-8 (It is used to read data in asynchronous way in order to tackle with buffer data by not using .toString() method)

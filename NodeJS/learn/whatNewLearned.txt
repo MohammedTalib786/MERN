@@ -1,0 +1,8 @@
+Get Started with Node js
+understanding what node js is its a runtime envronment of js and runs on chrome's v8 engine 
+made by Ryan Dahl in 2009 as he combined chrome v8 engine with a c++ program which allows us to write js in the server
+installing node js 
+prerequistes before learning it
+REPL - Read Eval Print Loop
+repl is nothing but what we write js (like console vars etc) in node server through terminal after entering cmd 'node'.
+as we all know node runs with js we can write js in node.

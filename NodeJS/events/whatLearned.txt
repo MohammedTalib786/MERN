@@ -1,0 +1,3 @@
+Learned about Event Emmiter
+
+Learned 3 types of how events can be Triggered

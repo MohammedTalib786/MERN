@@ -1,0 +1,23 @@
+learned about node module wrapper 
+generally ye seekha ki jo ham require,  exports, module etc use karte hai woh kaise kaam karta hai 
+
+generally node use ek iife me store karke rakhta hai jiska syntax kuch is tarah hota hai
+
+(funciton(require, exports, module, __dirname, __filename){
+// Your Code here
+})();
+
+and u can read more about it from net.
+
+
+Learned an additional thing about http server that 
+in the space of localhost we can write (127.0.0.1) because its our server host number 
+
+// We can also use 127.0.0.1 this method instead of localhost to listen on port
+
+// to listen on Browser
+
+// localhost:2000
+// 127.0.0.1:2000
+(also if you remember) vsCode live extension also uses this port to show live server 
+

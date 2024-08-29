@@ -1,0 +1,4 @@
+db.restaurants.find({ "borough": "Bronx" , $or : [{ "cuisine" : "American " },{ "cuisine" : "Chinese" }] } );
+
+
+db.data.find({borough: 'Bronx', $or: [{cuisine: 'American '} , {cuisine: 'Chineese'}]  })

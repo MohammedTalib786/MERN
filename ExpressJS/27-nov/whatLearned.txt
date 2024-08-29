@@ -1,0 +1,1 @@
+practiced to serve static html files to local server and serve also json files
